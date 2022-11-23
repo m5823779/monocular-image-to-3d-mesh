@@ -1,0 +1,25 @@
+torch==1.8.1
+torchvision==0.9.1
+onnx
+onnxruntime
+onnxconverter_common
+numpy
+pillow
+timm
+opencv-python
+onnxoptimizer
+imutils
+matplotlib
+pyvista
+pyvistaqt
+pyqt5
+colorcet
+cmocean
+#pythreejs
+panel
+scikit-image
+ipython
+
+# Windows OS specific
+onnxruntime-directml
+windows-curses
